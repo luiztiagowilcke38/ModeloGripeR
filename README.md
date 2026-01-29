@@ -7,7 +7,7 @@
 ## Visão Geral
 Este projeto implementa um sistema completo para modelagem, previsão e simulação da propagação do vírus Influenza na região Sul do Brasil. Utiliza dados reais do DATASUS combinados com variáveis climáticas e demográficas.
 
-O sistema é composto por **32 módulos independentes** orquestrados por um "Super Módulo".
+O sistema é composto por **32 módulos independentes** orquestrados por um " Módulo Principal".
 
 ## Estrutura do Projeto
 - `R/`: Código fonte (32 scripts).
